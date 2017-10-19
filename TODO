@@ -1,0 +1,38 @@
+Make TODO file
+
+~~~ Loose ideas ~~~
+- 
+
+
+~~~ Core game loop ~~~
+- Small levels
+  - Different win conditions
+- Get stuff, get more powerful?
+
+~~~ Actual todos ~~~
+- Weapon sprites (say 16x16?)
+  - Swords, spears, huuuuge hammers, whatever strikes your fancy, something thoroughly ridiculous, shield
+- Paper doll placeholders
+- Concept sketches?
+- Progression/artifacts?
+- Git structure
+- Physics playground
+- Map display proof-of-concept (scrolling, loading)
+- Effects proof of concept
+- Map editor
+- Ai playground
+- World map?? (meatboy style? mario 3 style? n++ style? mmo style?)
+
+- Google doc for task management
+
+~~~ Planning ~~~
+- Mobility styles per weapon? character? class?
+  - Shield: surfing?
+  - 
+
+- list of player skills to be tested
+  - Walljumping? reflex?? precision? timing? obstacle-specific? combat?
+  
+- Level design workflow
+  - 
+  
