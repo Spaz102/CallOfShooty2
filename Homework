@@ -1,0 +1,15 @@
+Unfortunately, I couldn't find the Famitracker album among my chiptune collections, but there is a lot to be found on youtube anyways. :c
+
+As for our graphics engine, I believe it is within our means to make use of normal mapping.
+Perhaps something like this: https://www.codeandweb.com/spriteilluminator/download ?
+Using that particular software isn't necessary, but it has good documentation to understand the theory and practice of normal mapping for sprites
+
+As for our programmers, we're going to need an event tracker. Unity has one built in, but I recommend playing around with it and generating custom events.
+Otherwise, making a custom event system is kinda fun anyways
+We're going to need a grid to bind environment object to, in the very least; and an idea of how we want to handle collisions.
+- https://youtu.be/UnU7DJXiMAQ and part 2 are a good place to start
+
+Do we have an idea of what we want to the combat to consist of, yet?
+I'd personally recommend something similar to a side-scrolling Crashlands (https://youtu.be/cPN5oVwo45o) with emphasis on telegraphing enemy attacks
+
+Also, we're all going to need to sync github with unity on our workstations. It's kind of a pain, but luckily it won't matter until we're further along the planning stage
