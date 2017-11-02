@@ -12,6 +12,9 @@ Make TODO file
 ~~~ Actual todos ~~~
 - Weapon sprites (say 16x16?)
   - Swords, spears, huuuuge hammers, whatever strikes your fancy, something thoroughly ridiculous, shield
+- Low-poly 3d models? (Specifically for cell-shading, if there are differences)
+- Figure out skeleton animations (Use essentially as animated sprites, but with 3d models instead of images)
+  - (Normally, physics and game-state informs what sprites to display, so it would just display/pose models instead)
 - Paper doll placeholders
 - Concept sketches?
 - Progression/artifacts?
