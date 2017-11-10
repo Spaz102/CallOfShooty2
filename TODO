@@ -1,41 +1,50 @@
-Make TODO file
-
 ~~~ Loose ideas ~~~
-- 
+- Each weapon adds its own kind of double jump, or similarly effective options
 
 
 ~~~ Core game loop ~~~
 - Small levels
   - Different win conditions
-- Get stuff, get more powerful?
+- Different weapons -> Different mobility -> Different ways to beat levels
+
+~~~ Setting ~~~
+- Bounty hunter/scavenger in sci-fi world
+
+~~~ Art direction ~~~
+- Cool colours for background/terrain
+- Neutrals for characters
+- Warm colours for attacks and hazards, even if just highlights
 
 ~~~ Actual todos ~~~
 - Weapon sprites (say 16x16?)
   - Swords, spears, huuuuge hammers, whatever strikes your fancy, something thoroughly ridiculous, shield
+- Background textures
 - Low-poly 3d models? (Specifically for cell-shading, if there are differences)
+  - Torso, head, hands, and feet
 - Figure out skeleton animations (Use essentially as animated sprites, but with 3d models instead of images)
   - (Normally, physics and game-state informs what sprites to display, so it would just display/pose models instead)
-- Paper doll placeholders
 - Concept sketches?
-- Progression/artifacts?
+- Interface concept sketches (Menus, main display)
+- Weapon unlock order, overall structure of player progression/pacing
 - Git structure
 - Physics playground
 - Map display proof-of-concept (scrolling, loading)
-- Effects proof of concept
+- (Particle/lighting) effects proof of concept
 - Map editor
 - Ai playground
-- World map?? (meatboy style? mario 3 style? n++ style? mmo style?)
+- Mario 3 style world map
 
 - Google doc for task management
 
 ~~~ Planning ~~~
 - Mobility styles per weapon? character? class?
-  - Shield: surfing?
-  - 
+  - Shield: surfing? Bypassing hazards?
+  - Piston-punch: high-jump, wall jump
+  - Spear: dragoon-style high jump, or helicopter spin?
+  - Daggers (Limited throwable?): Horizontal dash
+  - Hammer: Thor-style momentum-carrying throw?
+  - Sword (default/beginner weapon??)
 
 - list of player skills to be tested
   - Walljumping? reflex?? precision? timing? obstacle-specific? combat?
-  
-- Level design workflow
-  - 
   
